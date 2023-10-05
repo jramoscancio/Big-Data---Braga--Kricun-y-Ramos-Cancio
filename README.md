@@ -1,7 +1,6 @@
 # Universidad de San Andrés
-## Otoño 2023
-## Trabajo Práctico 1
 ## E337: Big Data
+## Trabajo Práctico 1
 ### Profesoras:
 - María Noelia Romero
 - Victoria Oubiña
